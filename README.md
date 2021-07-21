@@ -4,3 +4,5 @@ Esse API foi criado com o objetivo de desenvolver uma plataforma para compartilh
 
 ## Tecnologias utilizadas:
 A API foi desenvolvida em Python 3, Django REST framework e SQLite 3.
+
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/JJBarata/aluraflix-backend/blob/master/LICENSE)

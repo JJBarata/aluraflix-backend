@@ -6,9 +6,9 @@
 
     Alura Challenge Backend
 
-    Este projeto consiste no desenvolvimento de uma API para conexão com a plataforma de
-    compartilhamento de vídeos AluraFlix permitindo ao usuário montar playlists com links
-    para seus vídeos preferidos, separando os por categorias de ecolha.
+    Este projeto consiste no desenvolvimento de uma API (aluraflix_api) para conexão com a plataforma de
+    compartilhamento de vídeos AluraFlix, permitindo ao usuário montar playlists com links
+    para os seus vídeos preferidos, separando-os por categorias de sua escolha.
 
     Principais funcionalidades:
 
@@ -18,13 +18,12 @@
     • Serviço de autenticação para acesso às rotas GET, POST, PUT e DELETE.
 
     Tecnologias utilizadas:
-    O API foi desenvolvido usando as seguintes tecnologias:
+    Esse API foi desenvolvido usando as seguintes tecnologias:
 
     • Python 3
     • Django REST framework
-    • SQLite
+    • SQLite 3
 
 <p align="center">
 <a href="https://github.com/JJBarata/aluraflix-backend/blob/master/LICENSE " target="_blank"><img src="https://img.shields.io/badge/licence-MIT-blue.svg" alt="" /></a>
-
 </p>

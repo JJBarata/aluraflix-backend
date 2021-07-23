@@ -6,14 +6,16 @@
 
     Alura Challenge Backend
 
-    Este projeto consiste no desenvolvimento de uma API para conexão com a plataforma de compartilhamento de vídeos AluraFlix permitindo ao usuário montar playlists com links para seus vídeos preferidos, separando os por categorias de ecolha.
+    Este projeto consiste no desenvolvimento de uma API para conexão com a plataforma de
+    compartilhamento de vídeos AluraFlix permitindo ao usuário montar playlists com links
+    para seus vídeos preferidos, separando os por categorias de ecolha.
 
     Principais funcionalidades:
 
     • API com rotas implementadas segundo o padrão REST;
     • Validações feitas conforme as regras de negócio; 
     • Implementação de base de dados para persistência das informações;    
-    • Serviço de autenticação para acesso às rotas GET, POST, PUT e DELETE
+    • Serviço de autenticação para acesso às rotas GET, POST, PUT e DELETE.
 
     Tecnologias utilizadas:
     O API foi desenvolvido usando as seguintes tecnologias:

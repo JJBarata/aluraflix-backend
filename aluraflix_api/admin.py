@@ -1,5 +1,5 @@
 from django.contrib import admin
-from aluraflix_api.models import Video
+from aluraflix_api.videos import Video
 
 class Videos(admin.ModelAdmin):
     list_display = ('id', 'titulo', 'descricao', 'url')

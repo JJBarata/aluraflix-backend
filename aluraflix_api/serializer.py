@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from aluraflix_api.models import Video
+from aluraflix_api.videos import Video
 
 class VideoSerializer(serializers.ModelSerializer):
     class Meta:

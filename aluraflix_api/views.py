@@ -1,5 +1,5 @@
 from rest_framework import viewsets
-from aluraflix_api.models import Video
+from aluraflix_api.videos import Video
 from aluraflix_api.serializer import VideoSerializer
 
 class VideosViewSet(viewsets.ModelViewSet):
